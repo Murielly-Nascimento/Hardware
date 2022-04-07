@@ -25,3 +25,6 @@ O programa é convertido para código de máquina e é executado no simulador do
 ### Circuitos e Códigos
 Esses diretórios guardam os data path de algumas instruções e os códigos em assembly feitos durante
 o curso, respectivamente.
+
+## SO
+Repositório dedicado a guardar códigos e trabalhos da matéria de Sistemas Operacionais ministrada pelo professor Faina durante o período de 2022/1
